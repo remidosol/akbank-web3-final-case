@@ -21,9 +21,11 @@ The `WorkerPayroll` contract is for adding worker, storing worker and paying to 
 
 The `PhoneOperator`, `InternetProvider` and `ElectricityCompany` contracts are for storing bill payments and paying bills.
 
+There will be added another informations when I have spare time.
+
 ## Run <a id="install-run"></a> [🔝][@jump-to-top]
 
-You can run the contracts using Remix IDE.
+You can run the contracts using [`Remix IDE`](https://remix.ethereum.org/).
 ## Learn More & Resources <a id="learn"></a>[🔝][@jump-to-top]
 
 Will be added soon.
